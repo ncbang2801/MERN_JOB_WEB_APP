@@ -6,7 +6,7 @@ Here you can register as an employer and Seeker
 ![image](https://github.com/ncbang2801/MERN_JOB_WEB_APP/assets/167197322/21f03c8b-873a-4f48-a722-0fcfa0fd9951)
 
 
-#Seeker's home page interface
+#Job Seeker's home page interface
 ![image](https://github.com/ncbang2801/MERN_JOB_WEB_APP/assets/167197322/656574c4-b742-41f3-a7fc-d9f6f8bd9e0b)
 ![image](https://github.com/ncbang2801/MERN_JOB_WEB_APP/assets/167197322/5ef94980-bb3f-4256-b0d0-7e230e2556f6)
 ![image](https://github.com/ncbang2801/MERN_JOB_WEB_APP/assets/167197322/8bcd03d3-4392-4730-a7c6-d9ceb8110401)
